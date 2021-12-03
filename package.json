@@ -1,0 +1,26 @@
+{
+  "name": "temp-test-package",
+  "version": "1.0.0",
+  "description": "creating test package to publish",
+  "main": "temperature.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelMinaya/temp-test-package.git"
+  },
+  "author": "eminaya28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnmanuelMinaya/temp-test-package/issues"
+  },
+  "homepage": "https://github.com/EnmanuelMinaya/temp-test-package#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+
+  
+
+}
